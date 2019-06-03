@@ -1,0 +1,74 @@
+* {
+    font-family: raleway;
+}
+nav a:hover {
+    color: #fff;
+}
+
+#header {
+    background-image: url("https://akademia108.pl/kurs-front-end/form-background.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+}
+
+p {
+    color: #c2c2c2;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.primary-change {
+    background-color: #e38f42;
+    border: none;
+}
+
+.btn-dark-change {
+    opacity: 0.7;
+}
+
+form {
+    background-color: rgba(0,0,0,0.3);
+    padding: 15px;
+}
+
+form p {
+    font-size: 15px;
+    text-align: center;
+}
+a {
+    color: #e38f42;
+}
+a:hover {
+    text-decoration: none;
+    color: #c2c2c2;
+}
+
+button[type="submit"] {
+    width: 100%;
+    margin-top: 15px;
+}
+
+#dolacz {
+    background-color: rgba(0,0,0,0.35);
+    text-align: left;
+    padding: 10px;
+}
+
+.odstepy-od-sekcji {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#sec3 {
+    background-color: #f8f8f8;
+}
+
+.odstep {
+    padding-top: 40px;
+}
